@@ -1,18 +1,90 @@
-# 💫 About Me:
-Hasan — AI Engineering student | ML & Cybersecurity practitioner | Simple robotics & red teaming hobby<br><br>👤 Profile<br>I’m a 22-year-old AI Engineering student at Nanjing University of Aeronautics and Astronautics (graduating 2027). I focus on practical ML systems for security, applied research, and hands-on offensive security work. I build pipelines and tools that bridge model engineering and real-world detection, and I apply those skills to robotics projects and CTF/red-teaming practice.<br><br>🔭 Current Work<br>FeatureShield — a machine learning pipeline for malware detection<br>• Trains and evaluates XGBoost classifiers on EMBER-style feature sets 🛡️<br>• End-to-end feature engineering, GPU-accelerated training with CPU fallback ⚡<br>• Generates presentation-ready evaluation metrics and visualizations 📊<br>• Goal: reliable, reproducible model evaluation and deployment-ready insights for malware detection<br><br>💼 Specialties<br>• Feature engineering for security datasets (EMBER style) 🔧<br>• XGBoost model development and evaluation pipelines 🤖<br>• GPU-accelerated training with robust CPU fallback 💻<br>• Generation of publication/presentation-quality metrics and visualizations 📈<br>• Simple robotics prototyping and integration ⚙️<br>• Pentesting and red-teaming (hobbyist) 🕵️<br><br>👯 Collaboration Interests<br>Open to AI research, security tooling, and robotics projects that require rigorous ML engineering and practical evaluation. Projects that value reproducibility, measurable improvement, and deployment-ready results are ideal.<br><br>🤝 Where I Need Help<br>Optimizing ML pipelines for scale and latency, advanced malware detection techniques, and improving FeatureShield’s evaluation workflows and deployment automation 🔄<br><br>🌱 Currently Learning<br>Advanced ML algorithms and research methods 🧠, applied adversarial/defensive malware techniques 🛡️, and expanded penetration testing/red-teaming practices 🕶️<br><br>💬 Ask Me About<br>AI/ML system design, feature engineering, XGBoost, malware detection workflows, simple robotics, or practical CTF techniques<br><br>🎓 Education<br>B.Sc. (in progress) — AI Engineering, Nanjing University of Aeronautics and Astronautics — expected 2027 🎓<br><br>If you want, I can also make a super crisp GitHub-ready version under 200 words that hits all the key points while looking sleek and professional with emojis. That’s the one that usually grabs attention fast. Do you want me to do that next?<br><br>the specialties is a bit exagerating <br><br>Got it. Let’s tone down the “Specialties” section so it’s accurate without overselling, keeping it professional and believable. Here’s the revised version:<br><br>Hasan — AI Engineering student | ML & Cybersecurity practitioner | Simple robotics & red teaming hobby<br><br>👤 Profile<br>I’m a 22-year-old AI Engineering student at Nanjing University of Aeronautics and Astronautics (graduating 2027). I focus on practical ML systems for security, applied research, and hands-on cybersecurity practice. I build pipelines and tools that bridge model engineering and real-world detection, and I apply those skills to robotics projects and CTF/red-teaming exercises.<br><br>🔭 Current Work<br>FeatureShield — a machine learning pipeline for malware detection<br>• Trains and evaluates XGBoost classifiers on EMBER-style feature sets 🛡️<br>• Includes feature engineering, GPU-accelerated training with CPU fallback ⚡<br>• Generates evaluation metrics and visualizations 📊<br>• Goal: reliable, reproducible model evaluation for malware detection<br><br>💼 Areas of Focus<br>• ML pipelines and feature engineering 🔧<br>• Malware detection workflows 🤖<br>• Robotics prototyping ⚙️<br>• Pentesting and red-teaming (hobbyist) 🕵️<br><br>👯 Collaboration Interests<br>Open to AI research, security tooling, and robotics projects that involve practical ML applications and measurable outcomes.<br><br>🤝 Where I Need Help<br>Optimizing ML pipelines for scale, advanced malware detection approaches, and improving FeatureShield’s evaluation workflows 🔄<br><br>🌱 Currently Learning<br>New ML algorithms 🧠, applied adversarial/defensive techniques in malware detection 🛡️, and expanded penetration testing/red-teaming practices 🕶️<br><br>💬 Ask Me About<br>Python, C/C++, AI/ML workflows, feature engineering, malware detection, robotics, or CTF challenges<br><br>🎓 Education<br>B.Sc. (in progress) — AI Engineering, Nanjing University of Aeronautics and Astronautics — expected 2027 🎓
+# Hasan
 
+**AI Engineering Student | ML for Security | Cybersecurity & Robotics Hobbyist**
 
-## 🌐 Socials:
-<img src="https://tryhackme-badges.s3.amazonaws.com/hasantalal302.png" alt="Your Image Badge" />
+AI Engineering student at **Nanjing University of Aeronautics and Astronautics (Class of 2027)**.
+Interested in **machine learning for security, applied research, and hands-on cybersecurity practice**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_obliviscaris) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasantalal302@gmail.com)
+I enjoy building practical tools that combine **ML engineering, security workflows, and real-world experimentation**, while also exploring **robotics and CTF challenges**.
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Ember](https://img.shields.io/badge/ember-1C1E24?style=flat&logo=ember.js&logoColor=#D04A37) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HA5ANT&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HA5ANT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HA5ANT&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Current Project
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### FeatureShield
+
+Machine learning pipeline for **malware detection**
+
+* Train and evaluate **XGBoost models** on **EMBER-style feature datasets**
+* Feature engineering and preprocessing for static malware analysis
+* **GPU-accelerated training with CPU fallback**
+* Generates evaluation metrics and visualizations for model performance
+
+**Goal:** reproducible evaluation pipelines for malware detection models.
+
+---
+
+# Areas of Focus
+
+* Machine learning pipelines
+* Feature engineering for security datasets
+* Malware detection workflows
+* Robotics prototyping
+* Pentesting / red teaming (hobby)
+
+---
+
+# Currently Learning
+
+* Advanced machine learning algorithms
+* Malware analysis and adversarial techniques
+* Offensive security and CTF methodologies
+
+---
+
+# Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat\&logo=gnu-bash\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat\&logo=powershell\&logoColor=white)
+
+**ML / Data**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)
+
+**Tools**
+
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat\&logo=nVIDIA\&logoColor=green)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat\&logo=opencv)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat\&logo=Raspberry-Pi)
+![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat\&logo=xfce\&logoColor=white)
+
+---
+
+# Socials
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/hasantalal302.png" width="250"/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_obliviscaris)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:hasantalal302@gmail.com)
+
+---
+
+# GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HA5ANT\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=HA5ANT\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HA5ANT\&theme=dark\&hide_border=false\&layout=compact)
+
