@@ -1,90 +1,72 @@
 # Hasan
 
-**AI Engineering Student | ML for Security | Cybersecurity & Robotics Hobbyist**
+**AI Engineering student • ML for Security • Cybersecurity practitioner**
+*Pronouns:* he/him
 
-AI Engineering student at **Nanjing University of Aeronautics and Astronautics (Class of 2027)**.
-Interested in **machine learning for security, applied research, and hands-on cybersecurity practice**.
+## Summary
 
-I enjoy building practical tools that combine **ML engineering, security workflows, and real-world experimentation**, while also exploring **robotics and CTF challenges**.
+Building practical ML + security tools and solving real-world security problems. Focused on reproducible tooling, honest engineering, and hands-on learning.
 
----
+* Student, Nanjing University of Aeronautics and Astronautics — AI Engineering (Class of 2027).
+* Primary interests: machine learning for security, applied research, and practical cybersecurity.
 
-# Current Project
+## Current focus
 
-### FeatureShield
+**FeatureShield** — malware detection pipeline (active WIP).
+Repository: [https://github.com/HA5ANT/FeatureShield](https://github.com/HA5ANT/FeatureShield)
 
-Machine learning pipeline for **malware detection**
+## Selected projects
 
-* Train and evaluate **XGBoost models** on **EMBER-style feature datasets**
-* Feature engineering and preprocessing for static malware analysis
-* **GPU-accelerated training with CPU fallback**
-* Generates evaluation metrics and visualizations for model performance
+1. **CHESS-MASTER** — AI chess bot
+   Repo: [https://github.com/HA5ANT/CHESS-MASTER](https://github.com/HA5ANT/CHESS-MASTER)
+   Short: Minimax with quiescence search and position evaluation.
+   Tech: `Python`, Minimax, Quiescence Search.
 
-**Goal:** reproducible evaluation pipelines for malware detection models.
+2. **StegoScan** — steganography toolkit for security workflows
+   Repo: [https://github.com/HA5ANT/StegoScan](https://github.com/HA5ANT/StegoScan)
+   Short: Consolidates common stego detection and analysis tools into one handy utility.
+   Tech: `Python`, steganography analysis, CLI tooling.
 
----
+3. **PWMan — Minimal Local Password Manager**
+   Repo: [https://github.com/HA5ANT/PWMan-Minimal-Local-Password-Manager](https://github.com/HA5ANT/PWMan-Minimal-Local-Password-Manager)
+   Short: Lightweight local password manager with salting and cryptography.
+   Tech: `Python`, `cryptography`, secure local storage.
 
-# Areas of Focus
+> Practical, auditable projects — no fluff, no fake flex.
 
-* Machine learning pipelines
-* Feature engineering for security datasets
-* Malware detection workflows
-* Robotics prototyping
-* Pentesting / red teaming (hobby)
+## CTF & hands-on
 
----
+* Completed **The Return of the Yeti** (room) — *insane difficulty* (highest difficulty on TryHackMe).
+* Completed an **Advent of Cyber 2023 Side Quest** (earned on **Feb 27, 2026**) on TryHackMe — top ~0.7% (rare).
+* Various other TryHackMe and Hack The Box rooms (range: easy → hard).
 
-# Currently Learning
+## Skills & tech
 
-* Advanced machine learning algorithms
-* Malware analysis and adversarial techniques
-* Offensive security and CTF methodologies
+* **Languages:** Python, C, C++
+* **Platforms / Tools:** Kali Linux (and common Kali tools), web hacking
+* **Areas:** ML for security, malware detection tooling, pentesting techniques
 
----
+## Languages
 
-# Tech Stack
+* Arabic — native
+* English — advanced
+* Chinese — beginner
 
-**Languages**
+## Contact & socials
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat\&logo=gnu-bash\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat\&logo=powershell\&logoColor=white)
+* Instagram: [@_obliviscaris](https://instagram.com/_obliviscaris)
+* Email: [hasantalal302@gmail.com](mailto:hasantalal302@gmail.com)
 
-**ML / Data**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)
-
-**Tools**
-
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat\&logo=nVIDIA\&logoColor=green)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat\&logo=opencv)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat\&logo=Raspberry-Pi)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat\&logo=xfce\&logoColor=white)
+(Prefer email or GitHub issues/PRs for collaboration — whichever works.)
 
 ---
 
-# Socials
+## Badges & GitHub stats
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hasantalal302.png" width="250"/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_obliviscaris)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:hasantalal302@gmail.com)
-
----
-
-# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=HA5ANT\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=HA5ANT\&theme=dark\&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HA5ANT\&theme=dark\&hide_border=false\&layout=compact)
-
