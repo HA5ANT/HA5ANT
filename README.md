@@ -32,7 +32,6 @@ Repository: [https://github.com/HA5ANT/FeatureShield](https://github.com/HA5ANT/
    Short: Lightweight local password manager with salting and cryptography.
    Tech: `Python`, `cryptography`, secure local storage.
 
-> Practical, auditable projects — no fluff, no fake flex.
 
 ## CTF & hands-on
 
