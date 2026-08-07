@@ -67,7 +67,7 @@ Notable badges:
 
 ## Badges & stats
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hasantalal302.png)](https://tryhackme.com/p/hasantalal302)
+![TryHackMe](https://raw.githubusercontent.com/HA5ANT/HA5ANT/main/assets/thm_badge.svg)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HA5ANT&theme=dark&hide_border=false&cache_seconds=1800)](https://github.com/HA5ANT)
 
