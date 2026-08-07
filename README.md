@@ -12,9 +12,10 @@ I build tools I actually use — mostly for CTFs, pentest workflows, and applied
 
 ## Current focus
 
-**FeatureShield** — a malware detection pipeline (active WIP)
-XGBoost on EMBER-style static features, GPU training with CPU fallback, generates confusion matrix / ROC / metrics outputs.
-Repo: https://github.com/HA5ANT/FeatureShield
+Actively working on:
+- **[PWMan](https://github.com/HA5ANT/PWMan-Minimal-Local-Password-Manager)** — offline password manager (Argon2id + AES-256-GCM, multi-vault)
+- **[Wordlist-Indexer](https://github.com/HA5ANT/Wordlist-Indexer)** — Rust CLI for indexing and searching wordlist collections
+- **[StegoScan](https://github.com/HA5ANT/StegoScan)** — steganography triage script for CTFs
 
 ---
 
@@ -32,7 +33,13 @@ Repo: https://github.com/HA5ANT/FeatureShield
 ---
 
 ## CTF & hands-on
-- Top ~0.7% on an **Advent of Cyber 2023** side quest
+
+**[TryHackMe](https://tryhackme.com/p/HA5ANT)** — Top 4% rank, 84 rooms completed, 15 badges, 15-day streak
+
+Notable badges:
+- 🏆 **The Return of the Yeti** — Advent of Cyber 2023 side quest (epic, 0.3% of users)
+- 🥈 **Silver League** — 1st place (epic, 0.8%)
+- 🤖 **Mr. Robot** room completion (rare, 3.3%)
 
 ---
 
@@ -62,8 +69,8 @@ Repo: https://github.com/HA5ANT/FeatureShield
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hasantalal302.png)](https://tryhackme.com/p/hasantalal302)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HA5ANT&theme=dark&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/HA5ANT)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HA5ANT&theme=dark&hide_border=false&cache_seconds=1800)](https://github.com/HA5ANT)
 
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=HA5ANT&theme=dark&hide_border=false)](https://github.com/HA5ANT)
+[![Streak Stats](https://streak-stats.demolab.com/?user=HA5ANT&theme=dark&hide_border=false)](https://github.com/HA5ANT)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA5ANT&theme=dark&hide_border=false&layout=compact)](https://github.com/HA5ANT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HA5ANT&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)](https://github.com/HA5ANT)
