@@ -67,8 +67,12 @@ Notable badges:
 
 ## Badges & stats
 
+<div align="center">
+
 ![TryHackMe](https://raw.githubusercontent.com/HA5ANT/HA5ANT/main/assets/thm_badge.svg)
 ![GitHub Stats](https://raw.githubusercontent.com/HA5ANT/HA5ANT/main/assets/gh_stats.svg)
 ![Top Languages](https://raw.githubusercontent.com/HA5ANT/HA5ANT/main/assets/gh_top_langs.svg)
 
-[![Streak Stats](https://streak-stats.demolab.com/?user=HA5ANT&theme=dark&hide_border=false)](https://github.com/HA5ANT)
+[![Streak Stats](https://streak-stats.demolab.com/?user=HA5ANT&background=2b213a&border=e5289e&stroke=3d3450&ring=ef8539&fire=ef8539&currStreakNum=e2e9ec&sideNums=e2e9ec&currStreakLabel=e5289e&sideLabels=e5289e&dates=8877a3&hide_border=false)](https://github.com/HA5ANT)
+
+</div>
