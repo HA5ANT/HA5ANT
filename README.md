@@ -34,7 +34,7 @@ Actively working on:
 
 ## CTF & hands-on
 
-**[TryHackMe](https://tryhackme.com/p/HA5ANT)** — Top 4% rank, 84 rooms completed, 15 badges, 15-day streak
+**[TryHackMe](https://tryhackme.com/p/HA5ANT)** — Top 3% rank, 101 rooms completed, 17 badges, 30-day streak
 
 Notable badges:
 - 🏆 **The Return of the Yeti** — Advent of Cyber 2023 side quest (epic, 0.3% of users)
